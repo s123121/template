@@ -1,4 +1,5 @@
 ## Template for all my things
+
 - cursor rules
 - zsh settings
 - vscode settings
